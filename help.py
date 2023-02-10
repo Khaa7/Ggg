@@ -7,7 +7,7 @@ commands = '''
 '''
 soursce = '''
 - -- -- -- -- -- -- -- --
-**3ajz source is working ⚡
+**sedthon source is working ⚡
 Dev : 3ajz
 Dev : @G_x_X
 المصدر Ch: @N_j_x
