@@ -457,7 +457,7 @@ async def _(event):
                     await event.client.send_message(event.chat_id, f'''
                     
 - Done ↣  (@{username}) !
-- By ↣ @G_x_X !
+- By ↣ @Y_G_U !
 
 
     ''')
