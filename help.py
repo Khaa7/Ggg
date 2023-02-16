@@ -8,7 +8,7 @@ commands = '''
 soursce = '''
 - -- -- -- -- -- -- -- --
 **sedthon source is working ⚡
-Dev : اكس ثون
+Dev : mosa
 Dev : @Y_G_U
 المصدر Ch: @XSFNI
 - - - - - - - - - - -
